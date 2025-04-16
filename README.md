@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prajwal Shelar
 
 **Aspiring Full-Stack Developer** | Java, Spring Boot, Python, AI/ML  
-🚀 Passionate about Low-Level Programming & Web3  
+* Passionate about Low-Level Programming & Web3  
 🎓 MCA Graduate | 📍 Bengaluru, India
 
 🌐 [prajwalshelar.online](https://prajwalshelar.online)  
