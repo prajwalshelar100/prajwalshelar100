@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Prajwal
+# 👋 Hi, I'm Prajwal Shelar
 
-💻  Java Developer  
-🌧️ IMD Rainfall Analyzer Creator  
-🎓 MCA @ DSCE | 📍 Bengaluru
+**Aspiring Full-Stack Developer** | Java, Spring Boot, Python, AI/ML  
+🚀 Passionate about Low-Level Programming & Web3  
+🎓 MCA Graduate | 📍 Bengaluru, India
 
 🌐 [prajwalshelar.online](https://prajwalshelar.online)  
-📫 shelar.prajwal.99@gmail.com
+📫 shelar.prajwal.99@gmail.com | [LinkedIn](https://linkedin.com/in/prajwalshelar)
