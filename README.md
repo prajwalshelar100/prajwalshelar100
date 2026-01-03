@@ -5,14 +5,15 @@
 👨‍💻 Passionate about scalable systems, backend engineering, web3 and open-source
 
 ## 🔧 Skills
-**Languages:** Java, Python, TypeScript, C  
+**Languages:** Java, Python, TypeScript, C , Rust
 **Frameworks:** Spring Boot, React (if used), OpenCV  
 **Tools:** Git, Docker, CI/CD
 
 ## 🔭 I’m working on
 - Open-source contributions and GSoC proposals
 - Backend systems and scalable apps
-- Projects emphasizing reliability and clean code
+- Web3 projects
+- DSA
 
 ## 💼 Currently exploring
 - Full-time software roles (backend / full stack)
