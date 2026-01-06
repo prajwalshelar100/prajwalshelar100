@@ -2,7 +2,7 @@
 
 🎓 MCA | Physics Graduate  
 🌍 Bengaluru, India  
-👨‍💻 Passionate about scalable systems, backend engineering, web3 and open-source
+👨‍💻 Passionate about scalable systems, full stack development, low level engineering, web3, AI/ML and open-source.
 
 ## 🔧 Skills
 **Languages:** Java, Python, TypeScript, C , Rust
