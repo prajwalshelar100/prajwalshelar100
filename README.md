@@ -22,6 +22,7 @@
 ## 📍 Links
 🌐 Portfolio – https://prajwalshelar.online  
 🔗 LinkedIn – https://www.linkedin.com/in/prajwalshelar
+
 🐦 Twitter – https://x.com/prajwalshelar99  
 📫 Contact – shelar.prajwal.99@gmail.com
 
