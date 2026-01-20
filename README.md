@@ -1,6 +1,6 @@
 # Hey there 👋, I’m Prajwal Shelar
 
-🎓 Master's in Computer Applications| Bachelors in Physics Honours  
+🎓 Master's in Computer Applications | Bachelors in Physics Honours  
 🌍 Bengaluru, India  
 👨‍💻 Passionate about scalable systems, full stack development, low level engineering, web3, AI/ML and open-source.
 
