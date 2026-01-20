@@ -1,12 +1,12 @@
 # Hey there 👋, I’m Prajwal Shelar
 
-🎓 MCA | Physics Graduate  
+🎓 Master's in Computer Applications| Bachelors in Physics Honours  
 🌍 Bengaluru, India  
 👨‍💻 Passionate about scalable systems, full stack development, low level engineering, web3, AI/ML and open-source.
 
 ## 🔧 Skills
 **Languages:** Java, Python, TypeScript, C , Rust
-**Frameworks:** Spring Boot, React (if used), OpenCV  
+**Frameworks:** Spring Boot, React, OpenCV  
 **Tools:** Git, Docker, CI/CD
 
 ## 🔭 I’m working on
